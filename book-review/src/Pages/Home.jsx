@@ -9,8 +9,7 @@ export default function Home() {
     <div>
       <Banner></Banner>
       <Title></Title>
-      <Books></Books>
-     
+      <Books></Books>    
     </div>
   )
 }

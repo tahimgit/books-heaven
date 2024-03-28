@@ -6,7 +6,6 @@ export default function Navbar() {
         <div className="max-w-[90%] m-auto">
             <div className=" navbar bg-base-100">
                 <div className="navbar-start">
-
                     <a className="btn btn-ghost font-bold text-[28px]">Book Heaven</a>
                 </div>
                 <div className=" flex gap-8">
@@ -29,7 +28,6 @@ export default function Navbar() {
                     <button className="btn bg-green-400 text-white w-28">Sign In</button>
                     <button className="btn bg-[#59C6D2] text-white w-28">Sign Up</button>
                 </div>
-
             </div>
         </div>
     )

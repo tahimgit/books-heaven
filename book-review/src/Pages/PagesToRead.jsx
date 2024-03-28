@@ -38,8 +38,7 @@ TriangleBar.propTypes = {
 
 export default function PagesToRead() {
   return (
-    <>
-    
+    <>   
     <div className='flex justify-center border  mt-20 '>
       <BarChart
         width={1000}
@@ -56,8 +55,7 @@ export default function PagesToRead() {
           ))}
         </Bar>
       </BarChart>
-    </div>
-    
+    </div>   
     </>
   );
 }

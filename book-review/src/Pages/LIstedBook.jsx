@@ -29,7 +29,6 @@ export default function LIstedBook() {
         <div role="tabpanel" className="tab-content bg-base-100 border-base-300 rounded-box p-6">Tab content 2</div>
       </div>
       {/* <ReadBooks></ReadBooks> */}
-
     </div>
   )
 }
