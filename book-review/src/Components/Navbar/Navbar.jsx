@@ -7,7 +7,7 @@ export default function Navbar() {
             <div className=" navbar bg-base-100">
                 <div className="navbar-start">
 
-                    <a className="btn btn-ghost font-bold text-[28px]">Book Vibe</a>
+                    <a className="btn btn-ghost font-bold text-[28px]">Book Heaven</a>
                 </div>
                 <div className=" flex gap-8">
 
