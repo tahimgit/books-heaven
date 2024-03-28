@@ -8,7 +8,7 @@ export default function Banner() {
                 <div className="hero-content flex-col lg:flex-row-reverse">
                     <img src={one} className="max-w-sm rounded-lg shadow-2xl" alt="Banner" />
                     <div className='mr-32'>
-                        <h1 className="text-5xl font-bold">Books to freshen <br /> up your bookshelf</h1>
+                        <h1 className="text-5xl font-bold">Reading is dreaming <br /> with open eyes</h1>
                         <NavLink to={'/listedBook'} className="btn bg-green-500 text-white mt-12 w-48">View The List </NavLink>
                     </div>
                 </div>
