@@ -69,7 +69,7 @@ const Contact = () => {
                                 <a className="text-indigo-500">example@email.com</a>
                                 <p className="leading-normal my-5">
                                     91/A,Green Road                                  <br />
-                                    Dhaka-1205  
+                                    Dhanmondi-Dhaka-1205, Bangladesh  
                                 </p>
                                 <span className="inline-flex">
                                     <a className="text-gray-500">
