@@ -21,17 +21,6 @@ const ListedBooks = () => {
     const wishLists = getWishList()
     setListedBook(savedBooks)
     setWhisListedBooks(wishLists)
-    // const bookList = []
-    // if (book.length > 0) {
-    //   for (const id of storedBookId) {
-    //     const book = book.find(b => b.id === id)
-    //     if (book) {
-    //       bookList.push(book)
-    //     }
-    //   }
-    //   setListedBook(bookList)
-
-    // }
   }, [])
   const handleTabChange = (tabIndex) => {
     setActiveTab(tabIndex);
